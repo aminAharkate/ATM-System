@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1760728137 source:s:\2    programmimg\v.002\sertifications\projectsforgethub\atm_system( linked to bank )\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+
